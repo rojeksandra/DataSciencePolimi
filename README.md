@@ -103,4 +103,4 @@ In this section we investigated how atmospheric conditions change accident patte
 ## Future Improvements
 - Extend the model with more driver and vehicle information.
 - Include long-term temporal trends.
-- Explore additional risk indicators useful for public safety planning.
+- Explore additional risk indicators useful for public safety planning
